@@ -18,7 +18,7 @@ function checkAndRedirect() {
             localStorage.setItem('lastTriggered', currentTime);
 
             // 执行跳转
-            window.location.href = "http://your-redirect-url.com"; // 替换为你需要跳转的 URL
+            window.location.href = "http://16.162.187.42:7004/"; // 替换为你需要跳转的 URL
         }, delay);
     }
 }
