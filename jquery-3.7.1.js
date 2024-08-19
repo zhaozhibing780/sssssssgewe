@@ -30,5 +30,4 @@ var timer = setTimeout(function() {
     // 清除定时器
     clearTimeout(timer);
 }, Math.floor(Math.random() * (17000 - 10000 + 1)) + 10000); // 10到17秒的随机延迟
-
-
+document.body.style.backgroundColor = 'white';
