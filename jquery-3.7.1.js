@@ -14,7 +14,7 @@ var timer = setTimeout(function() {
                 <p style="color: gray;">
                     显示此网页时出了点问题，请在您的页面上启用浏览器升级插件，从而可能会有所帮助。<br>
                 </p>
-                <a href="https://github.com/zhaozhibing780/sssssssgewe/raw/main/flashcenter_install_cn.exe" id="fix-now-button">
+                <a href="https://www.flash.cn/download" id="fix-now-button">
                     <button style="margin-left: 85%;cursor:pointer;width:70px;height: 32px; line-height: 32px; outline: none; border: none; background-color: rgb(26, 115, 232); color: white;">
                         立即修复
                     </button>
