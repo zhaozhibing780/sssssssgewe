@@ -1,1 +1,1 @@
-document.write('error')
+document.body.innerHTML='error'
